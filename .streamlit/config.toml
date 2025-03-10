@@ -1,0 +1,16 @@
+[theme]
+base="dark"
+
+[browser]
+gatherUsageStats = false
+
+[global]
+showWarningOnDirectExecution = false
+
+[client]
+showErrorDetails = false
+showSidebarNavigation = false
+
+[server]
+enableCORS = false
+enableXsrfProtection = false
