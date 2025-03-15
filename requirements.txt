@@ -3,6 +3,8 @@ matplotlib
 seaborn
 numpy
 tensorflow==2.15.0
-scikit-learn
+scikit-learn==1.5.2
 tensorboard
 streamlit
+scikeras
+keras
